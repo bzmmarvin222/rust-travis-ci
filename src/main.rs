@@ -13,5 +13,5 @@ fn main() {
 }
 
 fn get_four() -> i32 {
-    3
+    4
 }
